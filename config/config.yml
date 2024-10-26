@@ -1,0 +1,14 @@
+app:
+  name: 'simple-crud-app'
+  version: '1.0.0'
+
+http:
+  port: ':8080'
+
+postgres:
+  host: 'localhost'
+  port: '5431'
+  username: 'postgres'
+  db_name: 'postgres'
+  ssl_mode: 'disable'
+  password: '1'
