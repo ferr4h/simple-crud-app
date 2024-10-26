@@ -1,1 +1,1 @@
-# simple-crud-name
+# simple-crud-app
